@@ -3,5 +3,9 @@
 version = 4
 
 [[package]]
+<<<<<<< HEAD
 name = "lab2_2"
+=======
+name = "rust"
+>>>>>>> fb61e694b86f9912b59fac286dafcf552248f3e1
 version = "0.1.0"
