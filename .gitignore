@@ -1,0 +1,7 @@
+# Ignoră folderele cu cod compilat din orice laborator
+**/target/
+**/*.exe
+**/*.pdb
+
+# Ignoră setările locale de la editor (daca exista)
+.vscode/
