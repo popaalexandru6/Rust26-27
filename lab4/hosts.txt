@@ -1,0 +1,3 @@
+127.0.0.1       localhost
+192.168.1.10    router.local
+8.8.8.8         google-dns
